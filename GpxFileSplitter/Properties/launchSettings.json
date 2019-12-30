@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GpxFileSplitter": {
+      "commandName": "Project",
+      "commandLineArgs": "-i \"c:\\Users\\Damir\\Temp\\SportTracks\\hiking.gpx\" -o \"c:\\Users\\Damir\\Temp\\SportTracks\\hiking\""
+    }
+  }
+}
